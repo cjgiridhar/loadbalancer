@@ -6,8 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+
 # Visual Studio files
 .vscode
+
 
 # Distribution / packaging
 .Python
@@ -129,4 +131,8 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+<<<<<<< HEAD
 .pyre/
+=======
+.pyre/
+>>>>>>> 68ba5aa9612e05f36da339315e4d8fa94a0af8ef
